@@ -2,6 +2,8 @@
 
 Minimalist Windows 11 taskbar widget for monitoring **Antigravity** and **Claude Code** usage limits in real time.
 
+![AI Usage Monitor preview](docs/preview.png)
+
 ## Features
 - **Windows 11 Taskbar Integration:** Borderless `12px` `Segoe UI Variable Text` layout matched to the native Windows 11 clock, anchored to the bottom-left of the taskbar.
 - **Antigravity (`AG` / `Ar`):** Reads live quota fractions and reset timers from the local Antigravity `language_server` (`Hydrogen (5h)` and `Argon (Weekly)`).
